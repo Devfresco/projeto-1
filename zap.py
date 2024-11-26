@@ -1,2 +1,2 @@
-nome  = str('ola gelson')
-print(nome)
+nada = str('ola fresco')
+print(nada)
